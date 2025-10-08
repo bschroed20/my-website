@@ -1,5 +1,6 @@
 name: "my-website"
 output_dir: "docs"
+
 navbar:
   title: "My Website"
   left:
@@ -9,12 +10,10 @@ navbar:
       href: about.html
     - text: "Click Me!"
       href: practice.html
+
 output:
   html_document:
     theme: flatly
-    include: 
-      after_body: my_footer.html
-      
-      
-rmarkdown::render_site()
-output_dir: "docs"
+    includes:
+      after_body: "my_footer.html"
+      in_header: "google_verify.html"
