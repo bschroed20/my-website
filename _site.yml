@@ -13,5 +13,8 @@ output:
   html_document:
     theme: flatly
     includes:
-      in_header: "google_verify.html"
+      in_header: "verify.html"
       after_body: "my_footer.html"
+
+
+
