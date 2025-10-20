@@ -9,12 +9,11 @@ navbar:
       href: about.html
     - text: "Click Me!"
       href: practice.html
+    - text: "NFL Analysis"
+      href: Analysis1.html
 output:
   html_document:
     theme: flatly
     includes:
       in_header: "verify.html"
       after_body: "my_footer.html"
-
-
-
