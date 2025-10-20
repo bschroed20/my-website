@@ -1,7 +1,8 @@
 ---
-title: "Team Analysis"
-format: html
+title: "NFL Analysis"
+output: html_document
 ---
+
 
 ## Quarto
 
