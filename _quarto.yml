@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: practice.qmd
+        text: Click Me!
+      - href: Analysis1.qmd
+        text: NFL Analysis
+
+format:
+  html:
+    theme: flatly
+    include-in-header: verify.html
+    include-after-body: my_footer.html
+
+
+

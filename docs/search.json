@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Analysis1.html",
+    "href": "Analysis1.html",
+    "title": "NFL Analysis",
+    "section": "",
+    "text": "This page contains interactive NFL analysis. GitHub Pages cannot run Shiny apps, so the interactive version is hosted separately.\nYou can access the live dashboard here:\nOpen NFL Analysis Dashboard"
+  },
+  {
+    "objectID": "Analysis1.html#nfl-analysis-dashboard",
+    "href": "Analysis1.html#nfl-analysis-dashboard",
+    "title": "NFL Analysis",
+    "section": "",
+    "text": "This page contains interactive NFL analysis. GitHub Pages cannot run Shiny apps, so the interactive version is hosted separately.\nYou can access the live dashboard here:\nOpen NFL Analysis Dashboard"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website",
+    "section": "",
+    "text": "Hello, Website!"
+  },
+  {
+    "objectID": "practice.html",
+    "href": "practice.html",
+    "title": "I wrote a new page",
+    "section": "",
+    "text": "Very interesting information goes here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Website",
+    "section": "",
+    "text": "More about this website."
+  }
+]
